@@ -1,2 +1,2 @@
 # ramonasteaparty-BETAWEBSITE.no
-The test page for ramonasteaparty.no
+The test page for www.ramonasteaparty.no
